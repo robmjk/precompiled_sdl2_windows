@@ -8,6 +8,7 @@
 You can use these steps and the code below to test SDL successfully runs for your project:
 1. Adding "include" and "lib" directories: right-click solution > properties > VC++ > Include Directories (add include folder location) + Library Directories (add lib folder location) 
 2. Adding SDL2.lib and SDL2main.lib dependencies: right-click solution > properties > Linker > Input > Additional Dependencies > Type: SDL2.lib; SDL2main.lib;
+3. Placing SDL2.dll in the root of your project directory
 
 #include <iostream>
 #include <SDL.h>
