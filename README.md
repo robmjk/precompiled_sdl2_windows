@@ -1,4 +1,4 @@
-# precompiled_sdl2 by Kribz1k
+# precompiled_sdl2 by Kribz1k -> Go to "Code" above to view readme!
 
 // I've precompiled SDL2 for people to use with Windows OS and Visual Studio
 // To use: Drag the contents of the "SDL 2.28.2 Premade by Kribz1k" folder to your project directory
